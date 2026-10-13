@@ -12,4 +12,4 @@
 Про кофейню: меню, мастер-классы, контакты.
 
 ## Как посмотреть
-[Открыть coffee.html](https://github.com/insafhalilov0-lab/coffee-site/blob/main/coffee.html)
+[Открыть coffee.html](https://github.com/insafhalilov0-lab/coffee-site/blob/main/coffe.html)
